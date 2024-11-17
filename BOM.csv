@@ -1,0 +1,20 @@
+#,Datasheet,RefDes,Pattern,JLCPCB
+1,http://datasheets.diptrace.com/samsungem/CL05A475MQ5NRNC_and_series.pdf,"C1, C2, C3, C4, C5, C6, C7, C8, C9, C10",CAPC320X160X180L50N,C96123
+2,http://datasheets.diptrace.com/fh/0603F104M500NT_and_series.pdf,"C11, C12, C13",CAPC200X125X145L50N,C49217
+3,http://datasheets.diptrace.com/samsungem/CL05A475MQ5NRNC_and_series.pdf,"C14, C15",CAPC320X160X100L50N,C24497
+4,http://datasheets.diptrace.com/murata/GRM21BR61H106KE43L.pdf,C16,CAPC200X125X145L50N_AD1,C440198
+5,http://datasheets.diptrace.com/guangdong_hottech/1N5819WS.pdf,D1,SOD260X130X100L37X30N,C191023
+6,,J2,C319127,C319127
+7,https://datasheet.lcsc.com/lcsc/1912251712_Ningbo-Kangnex-Elec-WJ127-5-0-4P_C192779.pdf,"J3, J4",CONN-TH_4P-P5.00_WJ127-5.0-4P,C192779
+8,http://datasheets.diptrace.com/sunlord/SDFL1005Q3R3KTF_and_series.pdf,"L1, L2",INDC200X125X105L50N,C32375
+9,http://datasheets.diptrace.com/uni-royal/0805W8F3303T5E_and_series.pdf,R1,RESC100X50X40L25N,C11702
+10,http://datasheets.diptrace.com/uni-royal/0805W8F3303T5E_and_series.pdf,R2,RESC160X80X55L30N,C4177
+11,http://datasheets.diptrace.com/uni-royal/0805W8F3303T5E_and_series.pdf,R3,RESC100X50X40L25N,C25900
+12,,"R4, R5, R6, R7, R8, R9, R10",RES_0402_M,C25531
+13,,"S1, S2",C720477,C720477
+14,,U1,esp12f,C82891
+15,http://datasheets.diptrace.com/maxim/DS18B20-PAR.pdf,U2,TO92-127P495H500-3_STR,C9753
+16,http://datasheets.diptrace.com/xlsemi/XL1509-ADJE1_and_series.pdf,U3,SOIC8P127_490X600X175L62X42N,C74192
+17,https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_TOSHIBA-TB6612FNG-O-C-8-EL_C88224.pdf,U4,SOP24P65_780X760X160L45X22N,C88224
+18,,U77,C261072,C261072
+19,,RS1,C18336941,C18336941
